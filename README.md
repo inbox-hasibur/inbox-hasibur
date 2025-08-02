@@ -4,11 +4,20 @@
   <strong>Passionate about MERN stack, UI/UX Design, Robotics, and Scientific Innovation</strong>
 </p>
 
-
-[![Email](https://img.shields.io/badge/Email-inbox.hasibur.rahman@gmail.com-007ACC?style=flat&logo=gmail)](mailto:inbox.hasibur.rahman@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasibur_Rahman-007ACC?style=flat&logo=linkedin)](https://www.linkedin.com/in/inboxhasibur/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hasibur.liveblog365.com-007ACC?style=flat&logo=firefox)](https://hasibur.liveblog365.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Hasibur_Rahman-007ACC?style=flat&logo=facebook)](https://facebook.com)
+<p align="center">
+  <a href="mailto:inbox.hasibur.rahman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-inbox.hasibur.rahman@gmail.com-007ACC?style=flat&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/inboxhasibur/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hasibur_Rahman-007ACC?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://hasibur.liveblog365.com">
+    <img src="https://img.shields.io/badge/Portfolio-hasibur.liveblog365.com-007ACC?style=flat&logo=firefox" alt="Portfolio" />
+  </a>
+  <a href="https://facebook.com">
+    <img src="https://img.shields.io/badge/Facebook-Hasibur_Rahman-007ACC?style=flat&logo=facebook" alt="Facebook" />
+  </a>
+</p>
 
 ---
 
