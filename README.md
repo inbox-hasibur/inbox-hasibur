@@ -54,14 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Hasibur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inbox-hasibur&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 🚀 Interests
 
 - 🚀 Spacecraft Thrusters & Navigation
