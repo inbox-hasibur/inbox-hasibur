@@ -4,7 +4,8 @@
 <h1 align="center">Hi, I'm Hasibur Rahman 👋</h1>
 <p align="center">
   💻 Web Developer | 🚀 Future Tech Entrepreneur | 🌙 Aspiring Space Engineer <br>
-  <strong>Passionate about MERN stack, UI/UX Design, Robotics, and Scientific Innovation</strong>
+  <strong>Passionate about MERN stack, UI/UX Design, Robotics, and Scientific Innovation</strong> 
+  <br> ![Profile Views](https://komarev.com/ghpvc/?username=inbox-hasibur&label=Profile+Views&color=007ACC&style=flat)
 </p>
 
 <p align="center">
@@ -23,7 +24,6 @@
 ---
 
 ### 👨‍💻 About Me
-![Profile Views](https://komarev.com/ghpvc/?username=inbox-hasibur&label=Profile+Views&color=007ACC&style=flat)
 
 - 🎓 BCSE Undergraduate at **IUBAT**
 - 💡 Curious thinker and dreamer with a passion for **solving problems using technology**
