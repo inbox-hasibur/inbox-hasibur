@@ -46,7 +46,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-007ACC?style=flat&logo=trello&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
+...
 
 ### 🌟 Highlight Projects
 
@@ -57,7 +57,7 @@
 | **IUBAT BUS Traking System** | Bus Traking with Custom MAP & Custom Featured Dashboard | [🔗 Live Demo](https://ubus.vercel.app/) |
 | **More Projects** | Explore my GitHub for source code and upcoming projects | [🔗 GitHub](https://github.com/inbox-hasibur?tab=repositories) |
 
----
+...
 
 ### 🚀 Interests
 
