@@ -23,6 +23,7 @@
 ---
 
 ### 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=inbox-hasibur&label=Profile+Views&color=007ACC&style=flat)
 
 - 🎓 BCSE Undergraduate at **IUBAT**
 - 💡 Curious thinker and dreamer with a passion for **solving problems using technology**
