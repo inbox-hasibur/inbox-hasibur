@@ -4,8 +4,7 @@
 <h1 align="center">Hi, I'm Hasibur Rahman 👋</h1>
 <p align="center">
   💻 Web Developer | 🚀 Future Tech Entrepreneur | 🌙 Aspiring Space Engineer<br/>
-  <strong>Passionate about MERN stack, UI/UX Design, Robotics, and Scientific Innovation</strong><br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=inbox-hasibur&label=Profile+Views&color=007ACC&style=flat" alt="Profile Views"/>
+  <strong>Passionate about MERN stack, UI/UX Design, Robotics, and Scientific Innovation</strong>
 </p>
 <p align="center">
   <a href="https://hasibur.liveblog365.com">
@@ -16,8 +15,8 @@
   </a>
   <a href="https://www.linkedin.com/in/inboxhasibur/">
     <img src="https://img.shields.io/badge/LinkedIn-Hasibur_Rahman-007ACC?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-
+  </a><br>
+  <img src="https://komarev.com/ghpvc/?username=inbox-hasibur&label=Profile+Views&color=007ACC&style=flat" alt="Profile Views"/>
 </p>
 
 ---
