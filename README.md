@@ -14,9 +14,6 @@
   <a href="https://hasibur.liveblog365.com">
     <img src="https://img.shields.io/badge/Portfolio-hasibur.liveblog365.com-007ACC?style=flat&logo=firefox" alt="Portfolio" />
   </a>
-  <a href="https://facebook.com">
-    <img src="https://img.shields.io/badge/Facebook-Hasibur_Rahman-007ACC?style=flat&logo=facebook" alt="Facebook" />
-  </a>
 </p>
 
 ---
