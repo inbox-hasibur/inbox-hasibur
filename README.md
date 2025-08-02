@@ -17,7 +17,7 @@
 
 </p>
 
-<hr>
+<hr style="height:1px; border:none; background-color:#ccc;" />
 
 ### 👨‍💻 About Me
 
@@ -27,7 +27,7 @@
 - 📈 Exploring ideas in **entrepreneurship, business modeling, and scientific engineering**
 - 📍 Based in Dhaka, Bangladesh
 
-<hr>
+<hr style="height:1px; border:none; background-color:#ccc;" />
 
 ### 🧰 Technologies & Tools
 
