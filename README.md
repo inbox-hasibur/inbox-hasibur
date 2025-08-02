@@ -24,7 +24,7 @@
 ![React](https://img.shields.io/badge/-React-45214A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Express.js](https://img.shields.io/badge/-Express.js-111111?style=flat&logo=express)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
