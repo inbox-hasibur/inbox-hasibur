@@ -34,8 +34,6 @@
 
 ### 🧰 Technologies & Tools
 
-![HTML](https://img.shields.io/badge/-HTML5-007ACC?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-007ACC?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-007ACC?style=flat&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat&logo=cplusplus&logoColor=white)
@@ -47,6 +45,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-007ACC?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-007ACC?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-007ACC?style=flat&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-007ACC?style=flat&logo=numpy&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-007ACC?style=flat&logo=googlecolab&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-007ACC?style=flat&logo=wordpress&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-007ACC?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-007ACC?style=flat&logo=git&logoColor=white)
