@@ -52,8 +52,10 @@
 
 | Project Name | Description | Demo |
 | ------------ | ----------- | ---- |
-| **LemonLime Event Manager** | University event management system (React, Firebase, Bootstrap) | [🔗 Live Demo](https://iubat-lemonlime.vercel.app/) |
-| **IUBAT Events Web App** | Platform for managing departmental events with dynamic registration | [🔗 Live Demo](https://iubat-events.vercel.app/) |
+| **Cafeteria Management** | University cafeteria management system (MERN) | [🔗 Live Demo](https://iubat-lemonlime.vercel.app/) |
+| **IUBAT Event Management** | Platform for managing departmental events (React, Django, SQLite) | [🔗 Live Demo](https://iubat-events.vercel.app/) |
+| **IUBAT BUS Traking System** | Bus Traking with Custom MAP & Custom Featured Dashboard () | [🔗 Live Demo](https://iubat-events.vercel.app/) |
+https://ubus.vercel.app/
 | **More Projects** | Explore my GitHub for source code and upcoming projects | [🔗 GitHub](https://github.com/inbox-hasibur) |
 
 ---
