@@ -18,19 +18,19 @@
 
 ### 🧰 Technologies & Tools
 
-![HTML](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-45214A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-413946?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-F05833?style=flat&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-111111?style=flat&logo=express)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello)
+![HTML](https://img.shields.io/badge/-HTML5-007ACC?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-007ACC?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-007ACC?style=flat&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-007ACC?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-007ACC?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-007ACC?style=flat&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express.js-007ACC?style=flat&logo=express)
+![Python](https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-007ACC?style=flat&logo=cplusplus)
+![Figma](https://img.shields.io/badge/-Figma-007ACC?style=flat&logo=figma)
+![Git](https://img.shields.io/badge/-Git-007ACC?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-007ACC?style=flat&logo=github)
+![Trello](https://img.shields.io/badge/-Trello-007ACC?style=flat&logo=trello)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
