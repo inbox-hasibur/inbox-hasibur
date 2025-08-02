@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/banner.gif" alt="Banner GIF" />
+</p>
 <h1 align="center">Hi, I'm Hasibur Rahman 👋</h1>
 <p align="center">
   💻 Web Developer | 🚀 Future Tech Entrepreneur | 🌙 Aspiring Space Engineer <br>
