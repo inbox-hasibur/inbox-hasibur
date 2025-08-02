@@ -17,7 +17,7 @@
 
 </p>
 
-<hr style="height:.5px; border:none;" />
+<hr style="height:.2px; border:none;" />
 
 ### 👨‍💻 About Me
 
