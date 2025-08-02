@@ -4,10 +4,9 @@
 <h1 align="center">Hi, I'm Hasibur Rahman 👋</h1>
 <p align="center">
   💻 Web Developer | 🚀 Future Tech Entrepreneur | 🌙 Aspiring Space Engineer<br/>
-  <strong>Passionate about MERN stack, UI/UX Design, Robotics, and Scientific Innovation</strong><br/>
+  <strong>Passionate about MERN stack, UI/UX Design, Robotics, and Scientific Innovation</strong><br/><br/>
   <img src="https://komarev.com/ghpvc/?username=inbox-hasibur&label=Profile+Views&color=007ACC&style=flat" alt="Profile Views"/>
 </p>
-
 <p align="center">
   <a href="https://hasibur.liveblog365.com">
     <img src="https://img.shields.io/badge/Portfolio-hasibur.liveblog365.com-007ACC?style=flat&logo=firefox" alt="Portfolio" />
