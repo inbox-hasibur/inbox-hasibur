@@ -4,9 +4,6 @@
   <strong>Passionate about MERN stack, UI/UX Design, Robotics, and Scientific Innovation</strong>
 </p>
 
----
-
-### 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-inbox.hasibur.rahman@gmail.com-007ACC?style=flat&logo=gmail)](mailto:inbox.hasibur.rahman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasibur_Rahman-007ACC?style=flat&logo=linkedin)](https://www.linkedin.com/in/inboxhasibur/)
