@@ -17,7 +17,7 @@
 
 </p>
 
---
+<hr>
 
 ### 👨‍💻 About Me
 
@@ -27,7 +27,7 @@
 - 📈 Exploring ideas in **entrepreneurship, business modeling, and scientific engineering**
 - 📍 Based in Dhaka, Bangladesh
 
---
+<hr>
 
 ### 🧰 Technologies & Tools
 
