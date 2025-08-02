@@ -47,10 +47,10 @@
 
 ### 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-inbox.hasibur.rahman@gmail.com-blue?style=flat&logo=gmail)](mailto:inbox.hasibur.rahman@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasibur_Rahman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/inboxhasibur/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hasibur.liveblog365.com-orange?style=flat&logo=firefox)](https://hasibur.liveblog365.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Hasibur_Rahman-1877F2?style=flat&logo=facebook)](https://facebook.com)
+[![Email](https://img.shields.io/badge/Email-inbox.hasibur.rahman@gmail.com-007ACC?style=flat&logo=gmail)](mailto:inbox.hasibur.rahman@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasibur_Rahman-007ACC?style=flat&logo=linkedin)](https://www.linkedin.com/in/inboxhasibur/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hasibur.liveblog365.com-007ACC?style=flat&logo=firefox)](https://hasibur.liveblog365.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Hasibur_Rahman-007ACC?style=flat&logo=facebook)](https://facebook.com)
 
 ---
 
