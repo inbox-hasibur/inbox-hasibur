@@ -60,17 +60,6 @@
 
 ---
 
-### 🌟 Highlight Projects
-
-| Project Name | Description | Demo |
-| ------------ | ----------- | ---- |
-| **Cafeteria Management** | University cafeteria management system (MERN) | [🔗 Live Demo](https://iubat-lemonlime.vercel.app/) |
-| **IUBAT Event Management** | Platform for managing departmental events (React, Django, SQLite) | [🔗 Live Demo](https://iubat-events.vercel.app/) |
-| **IUBAT BUS Traking System** | Bus Traking with Custom MAP & Custom Featured Dashboard | [🔗 Live Demo](https://ubus.vercel.app/) |
-| **More Projects** | Explore my GitHub for source code and upcoming projects | [🔗 GitHub](https://github.com/inbox-hasibur?tab=repositories) |
-
----
-
 <div align="center" style="width: 100%;">
   <table style="width: 100%;">
     <tr>
@@ -94,6 +83,16 @@
   </table>
 </div>
 
+---
+
+### 🌟 Highlight Projects
+
+| Project Name | Description | Demo |
+| ------------ | ----------- | ---- |
+| **Cafeteria Management** | University cafeteria management system (MERN) | [🔗 Live Demo](https://iubat-lemonlime.vercel.app/) |
+| **IUBAT Event Management** | Platform for managing departmental events (React, Django, SQLite) | [🔗 Live Demo](https://iubat-events.vercel.app/) |
+| **IUBAT BUS Traking System** | Bus Traking with Custom MAP & Custom Featured Dashboard | [🔗 Live Demo](https://ubus.vercel.app/) |
+| **More Projects** | Explore my GitHub for source code and upcoming projects | [🔗 GitHub](https://github.com/inbox-hasibur?tab=repositories) |
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
