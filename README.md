@@ -78,7 +78,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" width="380px" />
       </td>
       <td align="center" style="width: 33%;">
-        <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/Diamond.gif" width="270px" />
+        <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/Diamond.gif" width="250px" />
       </td>
       <td align="left" style="width: 34%;">
         <h4>🚀 Interests</h4>
