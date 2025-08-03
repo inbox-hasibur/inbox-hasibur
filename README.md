@@ -73,15 +73,10 @@
 
 <table>
   <tr>
-    <!-- Left column: Top Languages -->
     <td align="right" width="50%">
-      <h4>Top Langs 😋</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" alt="Hasibur :: Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" alt="Top Languages" />
     </td>
-
-    <!-- Right column: Interests -->
     <td align="left" width="50%">
-      <h4>🚀 Interests</h4>
       <ul>
         <li>🚀 Spacecraft Thrusters & Navigation</li>
         <li>🤖 Robotics & Automation</li>
