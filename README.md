@@ -78,6 +78,10 @@
 - 💡 Scientific Research & Innovation
 - 🧠 AI/ML & IoT Applications
 - 💼 Business Thinking & Startup Ideas
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdify&langs_count=10&theme=tokyonight&layout=compact" alt="Abdify :: Top Langs" /></p>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
