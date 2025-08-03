@@ -80,7 +80,7 @@
       <td align="center" width="33%">
         <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/Diamond.gif" width="80px" />
       </td>
-      <td align="left" width="33%">
+      <td align="left" width="40%">
         <ul>
           <li>🚀 Spacecraft Thrusters</li>
           <li>🤖 Robotics</li>
