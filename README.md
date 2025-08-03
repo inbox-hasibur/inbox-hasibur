@@ -72,12 +72,13 @@
 ---
 
 <div align="center">
-  <table style="border: none;">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="right" width="50%">
+      <td align="right" width="50%" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" alt="Top Languages" />
       </td>
-      <td align="left" width="50%">
+      <td align="left" width="50%" valign="top">
+        <h4>🚀 Interests</h4>
         <ul>
           <li>🚀 Spacecraft Thrusters & Navigation</li>
           <li>🤖 Robotics & Automation</li>
@@ -89,6 +90,7 @@
     </tr>
   </table>
 </div>
+
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
