@@ -93,14 +93,17 @@
 | **IUBAT Event Management** | Platform for managing departmental events (React, Django, SQLite) | [🔗 Live Demo](https://iubat-events.vercel.app/) |
 | **IUBAT BUS Traking System** | Bus Traking with Custom MAP & Custom Featured Dashboard | [🔗 Live Demo](https://ubus.vercel.app/) |
 | **More Projects** | Explore my GitHub for source code and upcoming projects | [🔗 GitHub](https://github.com/inbox-hasibur?tab=repositories) |
+
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-<picture>
+
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
+
 
 
 ⭐ *Thanks for visiting! I'm always open to exciting collaborations and learning opportunities.*
