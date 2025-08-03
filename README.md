@@ -75,10 +75,10 @@
   <table style="width: 100%;">
     <tr>
       <td align="right" style="width: 33%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" width="400px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" width="380px" />
       </td>
       <td align="center" style="width: 33%;">
-        <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/Diamond.gif" width="100px" />
+        <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/Diamond.gif" width="300px" />
       </td>
       <td align="left" style="width: 34%;">
         <h4>🚀 Interests</h4>
