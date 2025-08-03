@@ -71,7 +71,7 @@
 
 ---
 
-<div align="center">
+
   <table style="border: none; border-collapse: collapse;">
     <tr>
       <td align="right" width="50%" valign="top">
@@ -89,7 +89,6 @@
       </td>
     </tr>
   </table>
-</div>
 
 
 <div align="center">
