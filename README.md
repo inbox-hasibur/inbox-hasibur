@@ -71,17 +71,28 @@
 
 ---
 
-### 🚀 Interests
+<table>
+  <tr>
+    <!-- Left column: Top Languages -->
+    <td align="right" width="50%">
+      <h4>Top Langs 😋</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" alt="Hasibur :: Top Langs" />
+    </td>
 
-- 🚀 Spacecraft Thrusters & Navigation
-- 🤖 Robotics & Automation
-- 💡 Scientific Research & Innovation
-- 🧠 AI/ML & IoT Applications
-- 💼 Business Thinking & Startup Ideas
+    <!-- Right column: Interests -->
+    <td align="left" width="50%">
+      <h4>🚀 Interests</h4>
+      <ul>
+        <li>🚀 Spacecraft Thrusters & Navigation</li>
+        <li>🤖 Robotics & Automation</li>
+        <li>💡 Scientific Research & Innovation</li>
+        <li>🧠 AI/ML & IoT Applications</li>
+        <li>💼 Business Thinking & Startup Ideas</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" alt="Abdify :: Top Langs" /></p>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
