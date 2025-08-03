@@ -8,15 +8,15 @@
 </p>
 <p align="center">
   <a href="https://hasibur.liveblog365.com">
-    <img src="https://img.shields.io/badge/Portfolio-hasibur.liveblog365.com-6A0DAD?style=flat&logo=firefox" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-hasibur.liveblog365.com-3d00cc?style=flat&logo=firefox" alt="Portfolio" />
   </a>
   <a href="mailto:inbox.hasibur.rahman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-inbox.hasibur.rahman@gmail.com-6A0DAD?style=flat&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-inbox.hasibur.rahman@gmail.com-3d00cc?style=flat&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/inboxhasibur/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hasibur_Rahman-6A0DAD?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Hasibur_Rahman-3d00cc?style=flat&logo=linkedin" alt="LinkedIn" />
   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=inbox-hasibur&label=Profile+Views&color=6A0DAD&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=inbox-hasibur&label=Profile+Views&color=3d00cc&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -33,30 +33,30 @@
 
 ### 🧰 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-6A0DAD?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-6A0DAD?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-6A0DAD?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-6A0DAD?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-6A0DAD?style=flat&logo=c-sharp&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6A0DAD?style=flat&logo=assembler&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-6A0DAD?style=flat&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/-React-6A0DAD?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-6A0DAD?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-6A0DAD?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-6A0DAD?style=flat&logo=mongodb&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-6A0DAD?style=flat&logo=numpy&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Colab-6A0DAD?style=flat&logo=googlecolab&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-6A0DAD?style=flat&logo=wordpress&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-6A0DAD?style=flat&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-6A0DAD?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-6A0DAD?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-6A0DAD?style=flat&logo=visual-studio-code&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-6A0DAD?style=flat&logo=trello&logoColor=white)
-![ClickUp](https://img.shields.io/badge/-ClickUp-6A0DAD?style=flat&logo=clickup&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-6A0DAD?style=flat&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-6A0DAD?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-6A0DAD?style=flat&logo=adobephotoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-6A0DAD?style=flat&logo=blender&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3d00cc?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3d00cc?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-3d00cc?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-3d00cc?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-3d00cc?style=flat&logo=c-sharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-3d00cc?style=flat&logo=assembler&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-3d00cc?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/-React-3d00cc?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-3d00cc?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-3d00cc?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-3d00cc?style=flat&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-3d00cc?style=flat&logo=numpy&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-3d00cc?style=flat&logo=googlecolab&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-3d00cc?style=flat&logo=wordpress&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-3d00cc?style=flat&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-3d00cc?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-3d00cc?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-3d00cc?style=flat&logo=visual-studio-code&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-3d00cc?style=flat&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/-ClickUp-3d00cc?style=flat&logo=clickup&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-3d00cc?style=flat&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-3d00cc?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-3d00cc?style=flat&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-3d00cc?style=flat&logo=blender&logoColor=white)
 
 ---
 
