@@ -87,6 +87,9 @@
           <li>💼 Business Thinking & Startup Ideas</li>
         </ul>
       </td>
+      <td>
+         <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/Diamond.gif" alt="AnimatedDiamond" />
+      </td>
     </tr>
   </table>
 
