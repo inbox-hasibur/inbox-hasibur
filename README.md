@@ -71,7 +71,6 @@
 
 ---
 
-<div align="center">
   <table width="100%">
     <tr>
       <td align="right" width="33%">
@@ -92,7 +91,6 @@
       </td>
     </tr>
   </table>
-</div>
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
