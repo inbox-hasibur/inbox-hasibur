@@ -78,7 +78,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" alt="Top Languages" />
       </td>
       <td align="center" width="33%" valign="top">
-        <h4>🚀 Interests</h4>
+        <h2>🚀 Interests</h2>
         <ul style="list-style-position: inside; padding: 0; margin: 0;">
           <p>🚀 Spacecraft Thrusters & Navigation</p>
           <p>🤖 Robotics & Automation</p>
