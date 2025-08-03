@@ -75,18 +75,19 @@
   <table width="100%">
     <tr>
       <td align="right" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" width="300px" />
       </td>
       <td align="center" width="33%">
-        <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/Diamond.gif" width="80px" />
+        <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/Diamond.gif" width="100px" />
       </td>
-      <td align="left" width="40%">
+      <td align="left" width="34%">
+        <h4>🚀 Interests</h4>
         <ul>
-          <li>🚀 Spacecraft Thrusters</li>
-          <li>🤖 Robotics</li>
-          <li>💡 Research</li>
-          <li>🧠 AI/ML & IoT</li>
-          <li>💼 Startups</li>
+          <li>🚀 Spacecraft Thrusters & Navigation</li>
+          <li>🤖 Robotics & Automation</li>
+          <li>💡 Scientific Research & Innovation</li>
+          <li>🧠 AI/ML & IoT Applications</li>
+          <li>💼 Business Thinking & Startup Ideas</li>
         </ul>
       </td>
     </tr>
