@@ -71,28 +71,34 @@
 
 ---
 
-  <div align="center">
+<div align="center">
   <table style="border: none; border-collapse: collapse; width: 100%;">
     <tr>
-      <td align="center" width="33%" valign="top">
+      <!-- Left: Top Languages -->
+      <td align="right" width="33%" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" alt="Top Languages" />
       </td>
+
+      <!-- Center: GIF (smaller) -->
       <td align="center" width="33%" valign="top">
-        <h2>🚀 Interests</h2>
-        <ul style="list-style-position: inside; padding: 0; margin: 0;">
-          <p>🚀 Spacecraft Thrusters & Navigation</p>
-          <p>🤖 Robotics & Automation</p>
-          <p>💡 Scientific Research & Innovation</p>
-          <p>🧠 AI/ML & IoT Applications</p>
-          <p>💼 Business Thinking & Startup Ideas</p>
-        </ul>
+        <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/Diamond.gif" alt="AnimatedDiamond" width="80px" />
       </td>
-      <td align="center" width="33%" valign="top">
-        <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/Diamond.gif" alt="AnimatedDiamond" />
+
+      <!-- Right: Interests -->
+      <td align="left" width="33%" valign="top">
+        <h4>🚀 Interests</h4>
+        <ul style="list-style-position: inside; padding: 0; margin: 0;">
+          <li>🚀 Spacecraft Thrusters & Navigation</li>
+          <li>🤖 Robotics & Automation</li>
+          <li>💡 Scientific Research & Innovation</li>
+          <li>🧠 AI/ML & IoT Applications</li>
+          <li>💼 Business Thinking & Startup Ideas</li>
+        </ul>
       </td>
     </tr>
   </table>
 </div>
+
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
