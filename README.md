@@ -80,11 +80,11 @@
       <td align="center" width="33%" valign="top">
         <h4>🚀 Interests</h4>
         <ul style="list-style-position: inside; padding: 0; margin: 0;">
-          <li>🚀 Spacecraft Thrusters & Navigation</li>
-          <li>🤖 Robotics & Automation</li>
-          <li>💡 Scientific Research & Innovation</li>
-          <li>🧠 AI/ML & IoT Applications</li>
-          <li>💼 Business Thinking & Startup Ideas</li>
+          <p>🚀 Spacecraft Thrusters & Navigation</p>
+          <p>🤖 Robotics & Automation</p>
+          <p>💡 Scientific Research & Innovation</p>
+          <p>🧠 AI/ML & IoT Applications</p>
+          <p>💼 Business Thinking & Startup Ideas</p>
         </ul>
       </td>
       <td align="center" width="33%" valign="top">
