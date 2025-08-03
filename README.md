@@ -71,15 +71,16 @@
 
 ---
 
-  <table width="100%">
+<div align="center" style="width: 100%;">
+  <table style="width: 100%;">
     <tr>
-      <td align="right" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" width="300px" />
+      <td align="right" style="width: 33%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbox-hasibur&langs_count=10&theme=tokyonight&layout=compact" width="320px" />
       </td>
-      <td align="center" width="33%">
+      <td align="center" style="width: 33%;">
         <img src="https://github.com/inbox-hasibur/inbox-hasibur/blob/main/Diamond.gif" width="100px" />
       </td>
-      <td align="left" width="34%">
+      <td align="left" style="width: 34%;">
         <h4>🚀 Interests</h4>
         <ul>
           <li>🚀 Spacecraft Thrusters & Navigation</li>
@@ -91,6 +92,7 @@
       </td>
     </tr>
   </table>
+</div>
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
