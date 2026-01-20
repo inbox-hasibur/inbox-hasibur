@@ -90,7 +90,7 @@
 | Project Name | Description | Demo |
 | ------------ | ----------- | ---- |
 | **Cafeteria Management** | University cafeteria management system (MERN) | [🔗 Live Demo](https://iubat-lemonlime.vercel.app/) |
-| **IUBAT BUS Traking System** | Bus Traking with Custom MAP & Custom Featured Dashboard | [🔗 Live Demo](https://ubus.vercel.app/) |
+| **IUBAT BUS Traking System** | Bus Traking with Custom MAP & Custom Featured Dashboard | [🔗 Live Demo](https://bus-iubat.vercel.app/) |
 | **IUBAT Event Management** | Platform for managing departmental events (React, Django, SQLite) | [🔗 Live Demo](https://iubat-events.vercel.app/) |
 | **GYM Management System** | GYM Management System With Multiple Users, Equipment & Details | [🔗 Project](https://github.com/inbox-hasibur/GYM-Management-System) |
 | **More Projects** | Explore my GitHub for source code and upcoming projects | [🔗 All Projects](https://github.com/inbox-hasibur) |
