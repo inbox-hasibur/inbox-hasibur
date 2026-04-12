@@ -86,11 +86,18 @@
 
 | Project Name | Description | Demo |
 | ------------ | ----------- | ---- |
-| **Cafeteria Management** | University cafeteria management system (MERN) | [🔗 Live Demo](https://iubat-lemonlime.vercel.app/) |
+| **Cafeteria Management** | University cafeteria management system (MERN) | [🔗 Live Demo](https://lemonlime-iubat.vercel.app/) |
 | **IUBAT BUS Traking System** | Bus Traking with Custom MAP & Custom Featured Dashboard | [🔗 Live Demo](https://bus-iubat.vercel.app/) |
-| **IUBAT Event Management** | Platform for managing departmental events (React, Django, SQLite) | [🔗 Live Demo](https://iubat-events.vercel.app/) |
+| **Quicktap** | RFID based anti proxy Attendance System with realtime monitoring | [🔗 Live Demo](https://quicktapp.vercel.app/) |
+| **IoT Projects** | Rail crossing system, RFID Security, Color sorting, LFR, Obstacle Detector and more | [🔗 GitHub](https://github.com/inbox-hasibur/Arduino-Projects) |
+| **AI ML Projects** | CSR, SSR, API | [🔗 GitHub](https://github.com/inbox-hasibur/research-projects) |
+| **Halalbay** | E-commerce that verifies and grades products, selling trust not just products | [🔗 Live Demo](https://halalbay.vercel.app/) |
+| **BDmap** | Universal map for everything, same map different software/usecases/layers | [🔗 Live Demo](https://bdmap.vercel.app/) |
+| **KhoborAi** | AI-Powered Hyper-Local News Aggregator & Audio Briefing for Bangladesh | [🔗 Live Demo](https://khobor.vercel.app/) |
 | **GYM Management System** | GYM Management System With Multiple Users, Equipment & Details | [🔗 Project](https://github.com/inbox-hasibur/GYM-Management-System) |
-| **More Projects** | Explore my GitHub for source code and upcoming projects | [🔗 All Projects](https://github.com/inbox-hasibur) |
+| **IUBAT Event Management** | Platform for managing departmental events (React, Django, SQLite) | [🔗 Live Demo](https://iubat-events.vercel.app/) |
+| **More Projects** | Explore my GitHub for source code and upcoming projects | [🔗 All Projects](https://github.com/inbox-hasibur?tab=repositories) |
+
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
