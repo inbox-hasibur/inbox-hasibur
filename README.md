@@ -7,18 +7,18 @@
   <strong>Passionate about MERN stack, UI/UX Design, Robotics, and Scientific Innovation</strong>
 </p>
 <p align="center">
-  <a href="https://hasibur.liveblog365.com">
-    <img src="https://img.shields.io/badge/Portfolio-hasibur.liveblog365.com-3d00cc?style=flat&logo=firefox" alt="Portfolio" />
-  </a>
-  <a href="mailto:inbox.hasibur.rahman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-inbox.hasibur.rahman@gmail.com-3d00cc?style=flat&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/inboxhasibur/">
-    <img src="https://shields.io/badge/Linkedin" alt="Linkedin"/>
-  </a>
-    <a href="https://www.kaggle.com/inboxhasibur/code">
-    <img src="https://shields.io/badge/Kaggle" alt="Kaggle"/>
-  </a><br>
+  	<a href="https://hasibur.liveblog365.com">
+	  <img src="https://img.shields.io/badge/Portfolio-hasibur.liveblog365.com-3d00cc?style=flat&logo=firefox" alt="Portfolio" />
+	</a>
+	<a href="mailto:inbox.hasibur.rahman@gmail.com">
+	  <img src="https://img.shields.io/badge/Email-inbox.hasibur.rahman@gmail.com-3d00cc?style=flat&logo=gmail" alt="Email" />
+	</a>
+	<a href="https://www.linkedin.com/in/inboxhasibur/">
+	  <img src="https://img.shields.io/badge/LinkedIn-inboxhasibur-3d00cc?style=flat&logo=linkedin" alt="LinkedIn" />
+	</a>
+	<a href="https://www.kaggle.com/inboxhasibur/code">
+	  <img src="https://img.shields.io/badge/Kaggle-inboxhasibur-3d00cc?style=flat&logo=kaggle" alt="Kaggle" />
+	</a><br>
   <img src="https://komarev.com/ghpvc/?username=inbox-hasibur&label=Profile+Views&color=3d00cc&style=flat" alt="Profile Views"/>
 </p>
 
