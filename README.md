@@ -14,10 +14,10 @@
     <img src="https://img.shields.io/badge/Email-inbox.hasibur.rahman@gmail.com-3d00cc?style=flat&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/inboxhasibur/">
-    <img src="https://shields.io" alt="Linkedin"/>
+    <img src="https://shields.io/badge/Linkedin" alt="Linkedin"/>
   </a>
     <a href="https://www.kaggle.com/inboxhasibur/code">
-    <img src="https://shields.io" alt="Kaggle"/>
+    <img src="https://shields.io/badge/Kaggle" alt="Kaggle"/>
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=inbox-hasibur&label=Profile+Views&color=3d00cc&style=flat" alt="Profile Views"/>
 </p>
