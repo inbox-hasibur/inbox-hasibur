@@ -14,7 +14,7 @@
 	  <img src="https://img.shields.io/badge/Email-inbox.hasibur.rahman@gmail.com-3d00cc?style=flat&logo=gmail" alt="Email" />
 	</a>
 	<a href="https://www.linkedin.com/in/inboxhasibur/">
-	  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
+	  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=firefox" alt="LinkedIn" />
 	</a>
 	<a href="https://www.kaggle.com/inboxhasibur/code">
 	  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle" alt="Kaggle" />
