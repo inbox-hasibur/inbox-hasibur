@@ -90,7 +90,7 @@
 | Project Name | Description | Demo |
 | ------------ | ----------- | ---- |
 | **Cafeteria Management** | University cafeteria management system (MERN) | [🔗 Live Demo](https://lemonlime-iubat.vercel.app/) |
-| **IUBAT BUS Traking System** | Bus Traking with Custom MAP & Custom Featured Dashboard | [🔗 Live Demo](https://bus-iubat.vercel.app/) |
+| **IUBAT BUS Traking System** | Bus Tracking with Custom MAP & Custom Featured Dashboard | [🔗 Live Demo](https://bus-iubat.vercel.app/) |
 | **Quicktap** | RFID based anti proxy Attendance System with realtime monitoring | [🔗 Live Demo](https://quicktapp.vercel.app/) |
 | **IoT Projects** | Rail crossing system, RFID Security, Color sorting, LFR, Obstacle Detector and more | [🔗 GitHub](https://github.com/inbox-hasibur/Arduino-Projects) |
 | **AI ML Projects** | CSR, SSR, API | [🔗 GitHub](https://github.com/inbox-hasibur/research-projects) |
