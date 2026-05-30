@@ -60,7 +60,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-3d00cc?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-3d00cc?style=flat&logo=adobephotoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-3d00cc?style=flat&logo=blender&logoColor=white)
-<div align="center">  **Currently Exploring**: Docker, Redis, and Kubernetes for scalable architectures. </div>
+<div align="center">  Currently Exploring: Docker, Redis, and Kubernetes for scalable architectures. </div>
 ---
 
 <div align="center" style="width: 100%;">
