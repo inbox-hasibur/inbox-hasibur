@@ -29,7 +29,7 @@
 - 🎓 BCSE Undergraduate at **IUBAT**
 - 💡 Curious thinker and dreamer with a passion for **solving problems using technology**
 - 🛠️ Currently working on full-stack web projects and robotics systems
-- 📈 Exploring ideas in **entrepreneurship, business modeling, and scientific engineering**
+- 📈 Currently Exploring ideas in **entrepreneurship, business modeling, new tech like Docker, Redis, and Kubernetes for scalable architectures.
 - 📍 Based in Dhaka, Bangladesh
 
 ---
