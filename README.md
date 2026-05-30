@@ -29,7 +29,7 @@
 - 🎓 BCSE Undergraduate at **IUBAT**
 - 💡 Curious thinker and dreamer with a passion for **solving problems using technology**
 - 🛠️ Currently working on full-stack web projects and robotics systems
-- 📈 Currently Exploring ideas in **entrepreneurship, business modeling, new tech like Docker, Redis, and Kubernetes for scalable architectures.
+- 📈 Currently Exploring ideas in entrepreneurship, new tech like Docker, Redis, and Kubernetes for scalable architectures.
 - 📍 Based in Dhaka, Bangladesh
 
 ---
@@ -60,7 +60,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-3d00cc?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-3d00cc?style=flat&logo=adobephotoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-3d00cc?style=flat&logo=blender&logoColor=white)
-
+ Currently Exploring: Docker, Redis, and Kubernetes for scalable architectures.
 ---
 
 <div align="center" style="width: 100%;">
