@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">Hi, I'm Hasibur Rahman 👋</h1>
 <p align="center">
-  💻 Web Developer | 🚀 Future Tech Entrepreneur | 🌙 Aspiring Space Engineer<br/>
-  <strong>Passionate about MERN stack, UI/UX Design, Robotics, and Scientific Innovation</strong>
+  <br>Software Engineer | AI Researcher | IoT Expert | Future Tech Entrepreneur | Aspiring Space Engineer<br/>
+  <strong>Passionate about AI Research, MERN stack, UI/UX Design, Robotics, and Scientific Innovation</strong>
 </p>
 <p align="center">
   	<a href="https://hasibur.liveblog365.com">
