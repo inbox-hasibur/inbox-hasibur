@@ -93,8 +93,8 @@
 | **IUBAT BUS Traking System** | Bus Tracking with Custom MAP & Custom Featured Dashboard | [🔗 Live Demo](https://bus-iubat.vercel.app/) |
 | **Quicktap** | RFID based anti proxy Attendance System with realtime monitoring | [🔗 Live Demo](https://quicktapp.vercel.app/) |
 | **IoT Projects** | Rail crossing system, RFID Security, Color sorting, LFR, Obstacle Detector and more | [🔗 GitHub](https://github.com/inbox-hasibur/Arduino-Projects) |
-| **AI ML Projects** | CSR, SSR, API | [🔗 GitHub](https://github.com/inbox-hasibur/research-projects) |
 | **Halalbay** | E-commerce that verifies and grades products, selling trust not just products | [🔗 Live Demo](https://halalbay.vercel.app/) |
+| **AI ML Projects** | AI ML Projects | [🔗 GitHub](https://github.com/inbox-hasibur/research-projects) |
 | **BDmap** | Universal map for everything, same map different software/usecases/layers | [🔗 Live Demo](https://bdmap.vercel.app/) |
 | **KhoborAi** | AI-Powered Hyper-Local News Aggregator & Audio Briefing for Bangladesh | [🔗 Live Demo](https://khobor.vercel.app/) |
 | **GYM Management System** | GYM Management System With Multiple Users, Equipment & Details | [🔗 Project](https://github.com/inbox-hasibur/GYM-Management-System) |
