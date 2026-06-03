@@ -96,7 +96,6 @@
 | **AI ML Projects** | AI ML Projects | [🔗 GitHub](https://github.com/inbox-hasibur/research-projects) |
 | **IoT Projects** | Rail crossing system, RFID Security, Color sorting, LFR, Obstacle Detector and more | [🔗 GitHub](https://github.com/inbox-hasibur/Arduino-Projects) |
 | **Cafeteria Management** | University cafeteria management system (MERN) | [🔗 Live Demo](https://lemonlime-iubat.vercel.app/) |
-| **BDmap** | Universal map for everything, same map different software/usecases/layers | [🔗 Live Demo](https://bdmap.vercel.app/) |
 | **GYM Management System** | GYM Management System With Multiple Users, Equipment & Details | [🔗 Project](https://github.com/inbox-hasibur/GYM-Management-System) |
 | **IUBAT Event Management** | Platform for managing departmental events (React, Django, SQLite) | [🔗 Live Demo](https://iubat-events.vercel.app/) |
 | **More Projects** | Explore my GitHub for source code and upcoming projects | [🔗 All Projects](https://github.com/inbox-hasibur?tab=repositories) |
